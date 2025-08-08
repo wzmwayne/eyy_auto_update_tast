@@ -1,0 +1,2 @@
+# eyy_auto_update_tast
+基于易语言和GitHub页面的自动更新
